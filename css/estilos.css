@@ -5,6 +5,7 @@
     background-color:black;
     margin:0px 20px;
     text-decoration: none;
+    font-style: oblique;
 }
 .linea-menu{
 
@@ -15,9 +16,12 @@ margin:10px 10px;
 }
 
 .cuerpo-pagina{
-    color:black;
+    color:pink;
     font-size: 24px;
     background-color:black;
     margin:0px 20px;
     text-decoration: none;
+    padding-right: 20cm;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
