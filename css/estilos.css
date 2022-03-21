@@ -1,11 +1,13 @@
 /* selector clase*/
-.enlace-menu{
-    color: darkgoldenrod;
-    font-size: 24px;
-    background-color:black;
-    margin:0px 20px;
-    text-decoration: none;
-}
+.linea-menu{
+
+    background-color: white;
+    font-size: larger;
+    font-style: italic;
+    margin:10px 10px;
+    padding-right: 10cm;
+    }
+    
 .linea-menu{
 
 background-color: white;
