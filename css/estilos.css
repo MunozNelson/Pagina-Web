@@ -6,10 +6,11 @@
     margin:0px 20px;
     text-decoration: none;
 }
-.fondo.fotos{
+.linea-menu{
 
-background-color: orangered;
+background-color: white;
+font-size: larger;
+font-style: italic;
 margin:10px 10px;
-width: 600px;
 padding-right: 10cm;
 }
