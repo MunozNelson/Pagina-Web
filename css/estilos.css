@@ -4,9 +4,10 @@
     font-size: 24px;
     background-color:black;
     margin:0px 20px;
-    text-decoration: none;
+    text-decoration-line: 36;
     font-style: oblique;
 }
+
 .linea-menu{
 
 background-color: white;
@@ -21,7 +22,7 @@ margin:10px 10px;
     background-color:black;
     margin:0px 20px;
     text-decoration: none;
-    padding-right: 20cm;
+    padding-left: 20cm;
     font-family: 'Times New Roman', Times, serif;
-    
+
 }
