@@ -6,3 +6,13 @@
     background-color: aquamarine;
     border: 1px solid black; 
 }
+
+.positionRelative{
+    /*posicionamineto Relativo */
+    position: static;
+    width:25%;
+    height: 50px;
+    background-color: aquamarine;
+    border: 1px solid black; 
+    margin:10px;
+}
