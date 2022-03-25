@@ -25,10 +25,14 @@
     position: fixed;
     width: 100vw;
     height: 70px;
-    background-color: lightyellow;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(120,9,121,1) 50%, rgba(0,212,255,1) 100%); 
     border: 1px solid black; 
     top:0px;
     left:0;
+    color:white;
+    z-index:99999;
+    opacity: 100%;
 }
 
 body{
@@ -55,4 +59,11 @@ body{
     margin: 100px;
     position:relative;
 
+}
+
+.Float{
+
+    float: right;
+    border: 1px solid black;
+    width: 10%;
 }
