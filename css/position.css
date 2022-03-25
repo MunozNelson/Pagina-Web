@@ -1,0 +1,8 @@
+.positionStatic{
+    /*posicionamineto por defecto de los elementos */
+    position: static;
+    width:25%;
+    height: 50px;
+    background-color: aquamarine;
+    border: 1px solid black; 
+}
