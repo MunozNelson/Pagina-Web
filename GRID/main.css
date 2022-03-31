@@ -8,3 +8,10 @@ body{
     color: black;
     font-family: Georgia, Times, 'Times New Roman', sans-serif;
 }
+
+.container > div{
+    padding: 20px;
+    color: black;
+    background-color: cadetblue;
+    box-shadow: 2px 2px 2px 10px black;
+}
