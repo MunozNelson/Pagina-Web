@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+
+.container{
+    width: 80%;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 20px;
+    height: 80vh;
+    padding: 20px;
+    gap: 20px;
+    padding: 30px;
+}
+
+table, tr,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+
+}
+
+table{
+    width: 80%;
+    margin: 20px auto;
+}
+
+td{
+    text-align: center;
+}

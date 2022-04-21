@@ -1,0 +1,48 @@
+body{
+    background-color: lightblue;
+}
+
+.container{
+    width: 80%;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 20px;
+    height: 80vh;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 30px;
+}
+
+.inputtext{
+    border: 1px solid lightcoral;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    display: block;
+    margin-bottom: 6px;
+    margin-top: 12px;
+}
+
+label{
+
+    display: block;
+    margin-top: 15px;
+}
+
+.btn{
+    background-color: lightpink;
+    padding: 8px;
+    width: 250px;
+    color:white;
+    border-radius: 20px;
+    margin: 10px auto;
+    display: block;
+    
+}
+
+textarea{
+    border: 2px solid black;
+}
+
